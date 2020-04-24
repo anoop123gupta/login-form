@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.loginInput{
+  margin-top: 10px;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.main{
+  margin-top: 30px;
+}
